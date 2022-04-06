@@ -5,7 +5,7 @@ Official PyTorch code for the Sigri 2022 poster paper "Progressive Self-Attentio
 
 
 ## Installation
-We recommend the following dependencies.
+We mainly recommend the following important dependencies.
 - python==3.7.7
 - pytorch==1.3.1
 
