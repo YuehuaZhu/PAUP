@@ -19,7 +19,7 @@ Here, we already download the dataset ml-1m, and the PAUP model can be trained b
 ```bash
 python run_recbole.py 
 ```
-Thanks the great work of  [LightSANs](https://github.com/RUCAIBox/LightSANs). We adopt LightSANs as our baseline model, and we keep most parameter settings to ensure fair comparsions. Therefore, we mainly tune the parameter "m" and "k1" in "PAUP.yaml" to achieve better performance. Note that we encourage more experimentations on parameter m and parameter k_1, which may resulte in better overall performance than that described in the paper.
+Thanks the great work of  [LightSANs](https://github.com/RUCAIBox/LightSANs). We adopt LightSANs as our baseline model, and we keep most parameter settings to ensure fair comparsions. Therefore, we mainly tune the parameter "m" and "k1" in "PAUP.yaml" to achieve better performance. Note that we encourage more experimentations on parameter m and k_1, which may resulte in better overall performance than that described in the paper.
 
 ## Citation
 
