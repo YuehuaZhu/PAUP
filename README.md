@@ -5,9 +5,9 @@ Official PyTorch code for the Sigri 2022 poster paper "Progressive Self-Attentio
 <div>
 
 We propose a novel convolution-based self-attention network, namely PAUP, which is easy to implement(see below figure).
- <div align=center>
+<div align=center>
 <img src="https://github.com/YuehuaZhu/PAUP/blob/main/pic/framework.png" width="485" alt="pipline"/>
-   <div>
+ <div>
 
 
 
