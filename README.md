@@ -1,6 +1,8 @@
 # PAUP
-Official PyTorch code for the Sigri 2022 poster paper "Progressive Self-Attention Network with Unsymmetrical Positional Encoding for Sequential Recommendation". In this paper, to progressively extract a series of user's local sequential patterns (see left part of below figures), we propose a novel convolution-based self-attention network, namely PAUP (see right part of below figures). 
-<img src="https://github.com/YuehuaZhu/PAUP/blob/main/pic/illustration.png" width="485" alt="illustration"/><img src="https://github.com/YuehuaZhu/PAUP/blob/main/pic/framework.png" width="485" alt="pipline"/>
+Official PyTorch code for the Sigri 2022 poster paper "Progressive Self-Attention Network with Unsymmetrical Positional Encoding for Sequential Recommendation". In this paper, to progressively extract a series of user's local sequential patterns (see below figure). 
+<img src="https://github.com/YuehuaZhu/PAUP/blob/main/pic/illustration.png" width="485" alt="illustration"/>
+we propose a novel convolution-based self-attention network, namely PAUP, which is easy to implement(see below figure).
+<img src="https://github.com/YuehuaZhu/PAUP/blob/main/pic/framework.png" width="485" alt="pipline"/>
 
 
 
