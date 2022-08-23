@@ -29,7 +29,7 @@ If you find our paper or this project helps your research, please kindly conside
 @inproceedings{Zhu2022PAUP,
   title={Progressive Self-Attention Network with Unsymmetrical Positional Encoding for Sequential Recommendation},
   author={Yuehua Zhu, Bo Huang, Shaohua Jiang, Muli Yang, Yanhua Yang and Wenliang Zhong},
-  booktitle={Sigir},
+  booktitle={SIGIR},
   year={2022}
 }
 ```
