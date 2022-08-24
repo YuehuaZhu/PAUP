@@ -14,7 +14,7 @@ We mainly recommend the following important dependencies.
 
 
 ## Datasets
-1. We use three real-world benchmark datasets, including Yelp, Amazon Books and ML-1M. The details about full version of these datasets are on [RecSysDatasets](https://github.com/RUCAIBox/RecSysDatasets). Download three well-processed benchmarks from [RecSysDatasets](https://github.com/RUCAIBox/RecSysDatasets), and put them in .\dataset.
+We use three real-world benchmark datasets, including Yelp, Amazon Books and ML-1M. The details about full version of these datasets are on [RecSysDatasets](https://github.com/RUCAIBox/RecSysDatasets). Download three well-processed benchmarks from [RecSysDatasets](https://github.com/RUCAIBox/RecSysDatasets), and put them in .\dataset.
 
 ## Quick Guide
 Here, we already download the dataset ml-1m, and the PAUP model can be trained by script run_recbole.py, with a simple call given here:
