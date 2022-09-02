@@ -24,16 +24,7 @@ python run_recbole.py
 Thanks the great work of  [LightSANs](https://github.com/RUCAIBox/LightSANs). We adopt LightSANs as our baseline model, and we keep most parameter settings to ensure fair comparsions. Therefore, we mainly tune the parameter "m" and "k1" in "PAUP.yaml" to achieve better performance. Note that we encourage more experimentations on parameter m and k_1, which may resulte in better overall performance than that described in the paper.
 
 ## Acknowledgements
-Our work is inspired from many recent efforts in various Transformer-based methods including:
-- [LightSANs](https://github.com/RUCAIBox/LightSANs)
-- [Synthesizer](https://github.com/leaderj1001/Synthesizer-Rethinking-Self-Attention-Transformer-Models)
-- [LinTrans](https://github.com/idiap/fast-transformers)
-- [Performer](https://github.com/lucidrains/performer-pytorch)
-- [Linformer](https://github.com/lucidrains/linformer)
-- [BERT4Rec](https://github.com/FeiSun/BERT4Rec)
-- [SASRec](https://github.com/kang205/SASRec)
-
-Many thanks for their great work!
+Our work is inspired from many recent efforts in various Transformer-based methods including: [LightSANs](https://github.com/RUCAIBox/LightSANs), [Synthesizer](https://github.com/leaderj1001/Synthesizer-Rethinking-Self-Attention-Transformer-Models), [LinTrans](https://github.com/idiap/fast-transformers), [Performer](https://github.com/lucidrains/performer-pytorch), [Linformer](https://github.com/lucidrains/linformer), [BERT4Rec](https://github.com/FeiSun/BERT4Rec), [SASRec](https://github.com/kang205/SASRec). Many thanks for their great work!
 
 ## Citation
 
